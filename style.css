@@ -251,3 +251,19 @@ button:hover {
   font-size: 26px;
   text-align: center;
 }
+
+.hidden {
+  display: none;
+}
+
+.secret {
+  font-size: 1.3rem;
+  margin-top: 20px;
+  color: #ff4d88;
+}
+
+.signature {
+  margin-top: 15px;
+  font-family: 'Pacifico', cursive;
+  color: #ff2f6d;
+}
